@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @santhoshmohan8 - Santhosh Kumar Mohan
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+The more I explore AI, the more I'm drawn to it; it's like an addictive drug
 
-<!---
-santhoshmohan8/santhoshmohan8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋 , I am Santhosh Mohan having 10 years of experience in Data science and Machine learning. Github projects and materials over here is going to self help and more to teach/learn about Data science, Machine learning and Artificial intelligence in a way that a 5-year-old can digest.
